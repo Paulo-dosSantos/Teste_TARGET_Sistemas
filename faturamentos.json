@@ -1,0 +1,42 @@
+[
+  {
+    "valorFaturamento": 1200.50,
+    "data": "2024-09-01"
+  },
+  {
+    "valorFaturamento": 0.0,
+    "data": "2024-09-03"
+  },
+  {
+    "valorFaturamento": 850.75,
+    "data": "2024-09-05"
+  },
+  {
+    "valorFaturamento": 1300.20,
+    "data": "2024-09-07"
+  },
+  {
+    "valorFaturamento": 0.0,
+    "data": "2024-09-09"
+  },
+  {
+    "valorFaturamento": 2000.00,
+    "data": "2024-09-12"
+  },
+  {
+    "valorFaturamento": 950.60,
+    "data": "2024-09-15"
+  },
+  {
+    "valorFaturamento": 1700.30,
+    "data": "2024-09-18"
+  },
+  {
+    "valorFaturamento": 500.25,
+    "data": "2024-09-21"
+  },
+  {
+    "valorFaturamento": 3000.40,
+    "data": "2024-09-25"
+  }
+]
