@@ -1,4 +1,4 @@
-Nome do projeto: Teste_TARGET;
+Nome do projeto: Teste_TARGET_Sistemas;
 
 Projeto destinado a realização dos testes da empresa Target Sistemas para a vaga de estágio em Análise e Desenvolvimento;
 
